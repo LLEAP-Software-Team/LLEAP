@@ -163,10 +163,3 @@ ros2 launch exo_moveit demo.launch.py
 - ✅ MoveIt2 integration
 - 🚧 Gazebo simulation (in progress)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-[Add your license information here]
