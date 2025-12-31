@@ -57,7 +57,7 @@ cd ~/ros2_ws/src
 **Clone LLEAP repository**
 
 ```bash
-git clone https://github.com/MaxLewter16/LLEAP.git
+git clone https://github.com/LLEAP-Software-Team/LLEAP.git
 ```
 
 **Verify workspace creation**
@@ -110,6 +110,7 @@ pip install -r src/LLEAP/requirements.txt
 ```
 
 > **Note:** Always activate the virtual environment before working on the project:
+>
 > ```bash
 > cd ~/ros2_ws
 > source .venv/bin/activate
@@ -162,4 +163,3 @@ ros2 launch exo_moveit demo.launch.py
 - ✅ RViz2 visualization
 - ✅ MoveIt2 integration
 - 🚧 Gazebo simulation (in progress)
-
